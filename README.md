@@ -5,7 +5,7 @@
 <p>
 - 🔭 I’m currently pursuing a bachelor's degree in Computer Science from Indian Institute of Technology, Ropar<br>
 - 🌱 I’m currently interested in Robotics, Ethical hackking, Web-Development, Machine learning<br>
-- ⚡ Fun fact: I love to play football and create stuff<br>
+- ⚡ My Hobbies: I love to play football and create stuff<br>
 </p>
 
 ## Glad to see you here! ![](https://komarev.com/ghpvc/?username=Arker123)
