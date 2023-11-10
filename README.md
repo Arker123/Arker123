@@ -60,7 +60,7 @@ Here are some ideas to get you started:
 
 
 
-## Oops! Discovered (•̀ᴗ•́ )و👋
+## Oops! Found (•̀ᴗ•́ )و👋
 
 <p align="center">
   <a href="mailto:kharbandarnav@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-c14438.svg?&style=flat-square&logo=gmail&logoColor=white" alt="Gmail"></a>
